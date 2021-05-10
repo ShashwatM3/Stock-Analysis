@@ -2,7 +2,8 @@
 **Problem**
 ___________
 
-Having a dataset which contains specific attributes (Gender, Age, Annual Income, Spending Score) of different types of customers :-
+Stock market analysis enables investors to identify the intrinsic worth of a security even before investing in it. All stock market tips are formulated after thorough research by experts. Stock analysts try to find out activity of an instrument/sector/market in future.
 
-1. Predict the Spending Score of certain customers based upon their attributes.
-2. Cluster different types of customers based upon their spending scores to classify which customers to offer packages to.
+  1. Visualize the Close Stock Prices from 2016 to 2019 of 1 specific stock (AAPL)
+  2. Compare the Closed Stock Prices from 2016 to 2019 of multiple stocks (AAPL, AXP, BA, IBM, MU, WMT)
+  3. Create an ARIMA model for predicting closed stock prices overtime
